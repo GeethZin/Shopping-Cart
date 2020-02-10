@@ -1,0 +1,26 @@
+
+#submenushop{
+	width:210px;
+	height:380px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	float:left;
+	background-color:#c0d8e3;	
+}
+
+A{text-decoration:none;}
+
+#contentshop{
+	width:400px;
+	height:380px;
+	margin:1px;
+	padding:1px;
+	border:2px solid pink;
+	float:right;
+	background-color:#e18a7a
+	float:right;
+
+
+
+}
