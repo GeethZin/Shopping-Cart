@@ -1,0 +1,122 @@
+body{
+	text-align:center;
+}
+
+#pagebody{
+	width:920px;
+	height:1180px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:8px;
+	background-color: #97637f;
+}
+
+header{
+	width:880px;
+	height:380px;
+	margin:10px;
+	padding:5px;
+	border:2px solid pink;
+	background-color: #3fdcff;
+}
+
+
+.topnav{
+	width:99%;
+	height:%;
+	border:2px solid pink;
+	background-color: #97637f;
+}
+
+.topnavde{
+	display: inline-block;
+	width:95px;
+	height:13px;
+	margin:5px;
+	padding:5px;
+	border:2px solid pink;
+	background-color: lightcyan;
+}
+
+.topnavde a:hover{
+	width:90px;
+	height: 22px;
+	background-color:lightpink;
+}
+
+p{
+	text-align: left;
+}
+
+.container{
+	width:880px;
+	height:600px;
+	margin:10px;
+	padding:5px;
+	border:2px solid pink;
+	background-color:lightcyan;
+	text-align:center;
+	}
+
+aside{
+	width:200px;
+	height:460px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	background-color: #CFC;
+	float:left;
+}
+
+A{text-decoration:none;}
+
+
+
+article{
+	width:580px;
+	height:460px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	background-color: #CFC;
+	float:right;
+}
+
+.readmore{
+	display: block;
+}
+
+
+footer{
+	position: absolute;
+	width:890px;
+	height:50px;
+	margin:10px;
+	border:2px solid pink;
+	background-color: #CFC;;
+	clear: both;
+	
+	}
+
+
+#submenu{
+	width:200px;
+	height:390px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	float:left;
+	background-color:lightgreen;	
+}
+
+A{text-decoration:none;}
+
+#content{
+	width:580px;
+	height:390px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	float:right;
+	background-color:pink;	
+}
